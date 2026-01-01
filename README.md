@@ -10,3 +10,6 @@ implemented in Zig because i was bored, confirmed to work on zig 0.15.2
 3. Open a terminal in the project folder and run:
 ```bash
 zig build
+
+## credits
+insperation from https://github.com/fern89/runpe-x64
